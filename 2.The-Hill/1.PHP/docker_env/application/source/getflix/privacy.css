@@ -1,0 +1,16 @@
+body
+{
+    background-color: black;
+    color:white;
+}
+h3,h4
+{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+p
+{
+    font-size: x-large;
+    font-style: normal;
+}

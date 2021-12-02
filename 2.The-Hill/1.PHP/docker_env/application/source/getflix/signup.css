@@ -1,0 +1,24 @@
+body
+{
+    background-image:url("./images/sign.jpg");
+    background-size:cover;        
+}
+input[type=text] 
+{
+  border: none;
+  border-bottom: 2px solid red;
+}
+input[type=password] 
+{
+  border: none;
+  border-bottom: 2px solid red;
+}
+.form-group 
+{
+  display:flex;
+  flex: 0 0 auto;
+  flex-flow: row wrap;
+  align-items: center;
+  margin-bottom: 0;
+}
+

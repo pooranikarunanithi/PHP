@@ -1,0 +1,37 @@
+body
+{
+    background-image:url("./images/settings.jpg");
+    color:white;
+}
+.c-table
+{
+    table-layout: fixed;
+}
+table thead p, table thead th {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    background:red;
+    margin: 0px;
+}
+table thead tr{
+    border: 5px solid #bd0d0d;
+    padding: 20px;
+    vertical-align: top;
+}
+table {
+    border: 1px solid #d5d4d1;
+    border-collapse: collapse;
+    margin: 0 0 40px;
+    text-align: left;
+    width: 100%;
+}
+table {
+    border-spacing: 15px;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 5px;
+}
